@@ -53,4 +53,4 @@ jobs:
           app-name: 'resumeAWA'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8CB7EC2975B1480094BE3008456791AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_58567A7FB3EB49CBBF603249D04E7EB6 }}
